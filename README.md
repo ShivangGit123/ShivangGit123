@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on scalable backend systems and ML-powered applications  <br>👯 I’m looking to collaborate on Backend, AI/ML, and System Design projects  <br>🤝 I’m looking for help with distributed systems & production-level architecture  <br>🌱 I’m currently learning System Design, Advanced DSA & Spring Boot  <br>💬 Ask me about Java, Python, DSA, REST APIs, Machine Learning  <br>
+🔭 Developing backend services and production-oriented ML applications  
+👯 Interested in building scalable systems and data-intensive applications  
+🌱 Continuously improving in system design, advanced data structures, and model deployment  
+💬 Experienced with Java, Python, SQL, RESTful APIs, and machine learning pipelines  
+⚡ Focused on writing clean, efficient, and scalable code <br>
 
 
 ## 🌐 Socials:
